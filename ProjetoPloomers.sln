@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnviaEmail", "EnviaEmail\EnviaEmail.csproj", "{DC7109F9-65C4-450E-B41D-84BD5533A6F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroPessoas", "CadastroPessoas\CadastroPessoas.csproj", "{E9D82605-E9B4-4FA8-9D94-46598AF6EC05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroPessoas", "CadastroPessoas\CadastroPessoas.csproj", "{E9D82605-E9B4-4FA8-9D94-46598AF6EC05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Banco", "Banco", "{34D1CBB9-B291-4EE5-878E-7D9F798915C1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Banco.sql = ..\..\..\Desktop\Banco.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
